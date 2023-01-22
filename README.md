@@ -1,2 +1,12 @@
 # A-Swin-Transformer-based-Framework
 
+(1) We propose a neural network model based on the Swin Transformer to classify 2D shapes.  
+(2) An all-scale representation of shape features is designed as a preprocessing method to assist 2D shape recognition. 
+
+Our code use the Animal and MPEG-7 datasets as input to test performance, which obtains an accuracy of 93.82% and 98.02%, respectively.
+Experimental results demonstrate that the proposed model has a superior performance on shape recognition tasks.
+
+
+
+
+
